@@ -20,8 +20,6 @@
 
 ## Available on Telegram as [Annie](https://t.me/MrsElizaRobot)
 
-## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/PereraSehath/AnnieMusicNew/badge)](https://www.codefactor.io/repository/github/PereraSehath/AnnieMusicNew)
 
 ## 🧪 Get `SESSION_NAME` from below:
 
